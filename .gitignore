@@ -1,0 +1,10 @@
+# All data files are ignored
+/data/*
+
+# The identification is not synced to bitbucket
+/identification/*
+
+# All compiled python files are ignored
+/*/*.pyc
+*.pyc
+
